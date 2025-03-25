@@ -1,4 +1,4 @@
-# 📷 TP 02: Basic Image Operations  
+# 📷 TP 02: Basic Image Operations  BY Dr Guessoum
 
 ## 🎯 Objectives  
 Learn how to manipulate images by applying basic operations such as inversion (negative creation) and image addition.  
